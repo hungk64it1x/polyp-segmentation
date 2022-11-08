@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python3 ../train_proposed.py -c ../configs/scenario1.yaml
